@@ -1,5 +1,5 @@
 {
-    "name": "octopush/sms-bundle",
+    "name": "tomskab/OctopushSMSBundle",
     "description": "Integrates the Octopush SMS API client with Symfony.",
     "type": "symfony-bundle",
     "license": "MIT",
